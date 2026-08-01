@@ -35,7 +35,7 @@ authority and this one is not funded yet.
 If you would rather check the download yourself:
 
 ```powershell
-certutil -hashfile LumiChats-Setup-1.0.0.exe SHA256
+Get-FileHash LumiChats-Setup-*.exe -Algorithm SHA256
 ```
 
 Compare the result with `SHA256SUMS.txt` on the release.
