@@ -42,7 +42,6 @@ Compare the result with `SHA256SUMS.txt` on the release.
 
 ## Reporting a problem
 
-Security issues: **security@lumichats.com**
-Everything else: **support@lumichats.com**
+Security issues, and everything else: **lumichats@gmail.com**
 
 Documentation lives at [lumichats.com/desktop](https://lumichats.com/desktop).
